@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36623.8
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "method1", "c#-exercises\method1.csproj", "{8919B51B-6C15-33F3-22D7-5916CF8CDABF}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "method2", "method2\method2.csproj", "{87E92B3F-8CE3-454F-AED2-661234514208}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "method1", "method1\method1.csproj", "{F8026941-C3E8-5784-8637-20BB2F5B5CBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8919B51B-6C15-33F3-22D7-5916CF8CDABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8919B51B-6C15-33F3-22D7-5916CF8CDABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8919B51B-6C15-33F3-22D7-5916CF8CDABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8919B51B-6C15-33F3-22D7-5916CF8CDABF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{87E92B3F-8CE3-454F-AED2-661234514208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{87E92B3F-8CE3-454F-AED2-661234514208}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87E92B3F-8CE3-454F-AED2-661234514208}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87E92B3F-8CE3-454F-AED2-661234514208}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8026941-C3E8-5784-8637-20BB2F5B5CBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8026941-C3E8-5784-8637-20BB2F5B5CBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8026941-C3E8-5784-8637-20BB2F5B5CBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8026941-C3E8-5784-8637-20BB2F5B5CBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
